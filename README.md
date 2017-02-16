@@ -3,7 +3,7 @@
 <body>
 <b>JMC</b>
 <h1> Suggestion </h1>
-<background image-"https://www.google.co.in/search?q=background+images&rlz=1C1CHBF_enIN728IN728&espv=2&biw=1242&bih=602&site=webhp&tbm=isch&imgil=Hqw4fcsYVq26ZM%253A%253Bn6QJhYuNHBIAvM%253Bhttp%25253A%25252F%25252Fwww.planwallpaper.com%25252Fbackground&source=iu&pf=m&fir=Hqw4fcsYVq26ZM%253A%252Cn6QJhYuNHBIAvM%252C_&usg=__a0YHZ77Mjo-VcGOlblTfvWAlg0s%3D&ved=0ahUKEwjn7PuW65PSAhVKPY8KHdDNC6gQyjcIMg&ei=TjKlWOeNIcr6vATQm6_ACg#imgrc=Hqw4fcsYVq26ZM:">
+<background image-"image.jpg">
 <table>
 <tr>
 <th> Tag </th>
