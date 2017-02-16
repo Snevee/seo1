@@ -3,7 +3,7 @@
 <body>
 <b>JMC</b>
 <h1> Suggestion </h1>
-<background image-"http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg">
+<body background -"http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg">
 <table>
 <tr>
 <th> Tag </th>
