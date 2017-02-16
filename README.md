@@ -37,6 +37,20 @@
 <td>HTML Compression </td>
 <td>Very Good</td>
 </tr>
+<tr>
+<td> Size </td>
+<td>11.176Kb</td>
+</tr>
+<tr>
+<td>Page Rank</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Age</td>
+<td>January 21'2021,09:00:02 UTC</td>
+</tr>
+
+
 </table>
 </body>
 </html>
