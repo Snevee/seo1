@@ -14,6 +14,10 @@
 <td>Jesus And Mary College, University of Delhi-New Delhi-65</td>
 </tr>
 <tr>
+<td>Admin Name</td>
+<td>Marina John</td>
+</tr>
+<tr>
 <td>Meta Description</td> 
 <td>JMC is a christian college affiliated under <u> DU </u>. It is graded 'A' by <u>NAAC</u>. It is run by sisiters of CMJ congregation. It offers various courses like B.Com, B.Sc, B.A(Hons.) and B.A.(programme).</td>
 </tr>
