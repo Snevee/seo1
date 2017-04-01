@@ -3,7 +3,6 @@
 <body>
 <b>JMC</b>
 <h1> Suggestion </h1>
-<background image = "image.jpg">
 <table>
 <tr>
 <th> Tag </th>
