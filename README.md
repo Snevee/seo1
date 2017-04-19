@@ -123,6 +123,7 @@ More backlinks need to be used to increase the PR.</td>
 <table>
 <tr>
 <th> Domain Information </th>
+<th> </th>
 </tr>
 <tr>
 <td>Domain</td>
