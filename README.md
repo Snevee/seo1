@@ -6,9 +6,9 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 </style>
 <body>
 <div align="center">
-  <b><u><h1 style="color:black;">JESUS AND MARY COLLEGE</h1></u></b>
+  <b><u><h1 style="color:white;">JESUS AND MARY COLLEGE</h1></u></b>
 </div>
-<i><h2 style="color:blue;">SEO REPORT</h2></i>
+<i><h2 style="color:white;">SEO REPORT</h2></i>
 <table>
 <tr>
 <th><b>TAG</b></th>
