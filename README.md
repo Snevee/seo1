@@ -6,7 +6,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 </style>
 <body>
 <div align="center">
-  <b><u><h1 style="color:blue;">jJESUS AND MARY COLLEGE</h1></u></b>
+  <b><u><h1 style="color:black;">JESUS AND MARY COLLEGE</h1></u></b>
 </div>
 <i><h2 style="color:blue;">SEO REPORT</h2></i>
 <table>
@@ -31,9 +31,9 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <tr>
 <td>Meta Description</td>
 <td>NOT FOUND </td>
-<td>Their is no meta description in the page.<p>
+<td>Their is no meta description in the page.<br>
  Meta descriptions can be upto 160 characters. </td> 
-<td>Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<p>
+<td>Meta Descriptions should be used as this helps Search Engines understand what the page is about and index your web pages accordingly for relevant keywords or keyword phrases.<br>
 <b>Meta description suggestion </b> : JMC is run by the Sisters of Jesus and Mary Congregation that originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet. t focuses on intellectual, cultural, social, aesthetic and spiritual development of our students to make them compassionate and committed human beings. JMC welcomes students of all religions .</td>
 
 </tr>
@@ -41,7 +41,7 @@ background-image: url("http://avante.biz/wp-content/uploads/Green-Wallpaper-Hd/G
 <td> Meta Keywords</td>
 <td>NOT FOUND </td>
 <td>Meta keywords are not found</td>
-<td> Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<p>
+<td> Meta Keywords should be used as they help search engines associate the indexed content to the right keywords.<br>
 Keywords such as <b> South Campus</b>, <b>Christian College</b>, <b>Girl's College</b> can be used.
 <b>Google Does not accept meta keywords any more.</b></td>
 </tr>
@@ -93,7 +93,7 @@ Web site owners use the /robots.txt file to give instructions about their site t
 <td>Underscores in Links Test	</td>
 <td>NOT FOUND</td>
 <td>No underscore links were found in the webpage</td>
-<td>Hyphens should be used instead of underscores.<p>
+<td>Hyphens should be used instead of underscores.<br>
 </td>
 </tr>
 <tr>
